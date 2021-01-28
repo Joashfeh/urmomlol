@@ -1,5 +1,8 @@
 #include <iostream>	
 
 int main() {
-	std::cout << "FUCK YOURSELF";
+	while (true) {
+		std::cout << "FUCK YOURSELF";
+		std::cout << "poi"
+	}
 }
